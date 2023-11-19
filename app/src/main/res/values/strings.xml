@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="start_explicit_activity">Start Explicit Activity</string>
+    <string name="click_button_to_see_result">Click button to see result</string>
+    <string name="start_implicit_activity">Start Implicit Activity</string>
+    <string name="select_image">Select Image</string>
+    <string name="enter_something">Enter something</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="list_of_registered_activities">List of registered activities</string>
+</resources>
